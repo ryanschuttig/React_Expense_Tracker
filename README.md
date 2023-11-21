@@ -1,1 +1,1 @@
-# Expense Tracker created with React
+# Expense Tracker built with React
